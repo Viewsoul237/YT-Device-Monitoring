@@ -1,1 +1,1 @@
-print("lox")
+print("ne lox")
